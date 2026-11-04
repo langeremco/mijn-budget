@@ -1,7 +1,7 @@
 {
   "name": "Mijn Budget",
   "short_name": "Mijn Budget",
-  "description": "Persoonlijk maandbudget met handmatige invoer en terugkerende vaste lasten.",
+  "description": "Persoonlijk budgetdashboard met reserveringen, spaardoelen, jaaroverzicht en scenario’s.",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#111827",
